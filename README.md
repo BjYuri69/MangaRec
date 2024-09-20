@@ -1,0 +1,2 @@
+# MangaRec
+Recomendações de mangás
